@@ -1,0 +1,2 @@
+Docker is a PAAS which uses OS Level virtualization to package software along with 
+its dependencies, libraries and configuration files as containers 
